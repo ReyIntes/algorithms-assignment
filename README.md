@@ -10,7 +10,7 @@ A*, Apriori, and Genetic Algorithm
 | File | Algorithm | Examples |
 |------|-----------|---------|
 | `astar.py` | A* Search Algorithm | Grid Maze, City Route Finder |
-| `apriori.py` | Apriori Algorithm | Grocery Basket Analysis, Course Enrollment Patterns |
+| `apriori.py` | Apriori Algorithm | Fast Food Order Analysis, Course Enrollment Patterns |
 | `genetic_algorithm.py` | Genetic Algorithm | Maximize f(x)=x², Travelling Salesman Problem |
 
 
