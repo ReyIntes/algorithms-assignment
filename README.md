@@ -42,8 +42,8 @@ Key metrics:
 - Confidence = how often rule A→B holds
 - Lift = how much more likely B is given A (vs. random)
 
-Example 1 – Grocery Basket Analysis
-Mines 10 grocery transactions to find what items customers buy together (e.g., "if beer → then diapers").
+Example 1 – Fast Food Order Analysis
+Mines 12 fast food transactions to find what items customers order together (e.g., "if coke → then burger").
 ![Apriori Grocery](screenshots/apriori1.png)
 
 Example 2 – Course Enrollment Patterns
